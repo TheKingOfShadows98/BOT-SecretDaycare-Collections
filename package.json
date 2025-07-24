@@ -1,0 +1,25 @@
+{
+  "name": "discord_bot_template",
+  "version": "1.0.0",
+  "description": "A discord bot template for future projects or iterations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albmira/Discord_Bot_Template.git"
+  },
+  "keywords": [],
+  "author": "Mira Softworks",
+  "license": "GNU GENERAL PUBLIC LICENSE v2.0",
+  "bugs": {
+    "url": "https://github.com/albmira/Discord_Bot_Template/issues"
+  },
+  "homepage": "https://github.com/albmira/Discord_Bot_Template#readme",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
