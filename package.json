@@ -1,7 +1,7 @@
 {
   "name": "discord_bot_template",
   "version": "1.0.0",
-  "description": "A discord bot template for future projects or iterations.",
+  "description": "A discord bot template for future project or iterations.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
