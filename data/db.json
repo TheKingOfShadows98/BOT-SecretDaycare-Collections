@@ -1,0 +1,1702 @@
+{
+  "users": [
+    {
+      "user_id": "331269583447130122",
+      "diapers": [
+        {
+          "uid": "9650a8bd-2e89-4052-a634-e0a1748286c3",
+          "nombre": "Baby Banana split",
+          "lindura": 5,
+          "grosor": 1,
+          "absorbencia": 4,
+          "calidad": 1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "7acbb50c-8f5c-4595-959b-6d3639931248",
+          "nombre": "Support Gamming Gear",
+          "lindura": 7,
+          "grosor": 8,
+          "absorbencia": 5,
+          "calidad": 2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "229195c1-e613-4d52-a289-4c4df92abc85",
+          "nombre": "Little Magic Fairy",
+          "lindura": 3,
+          "grosor": 6,
+          "absorbencia": 6,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "55e173da-338e-4fcf-9dab-9cc637e1353c",
+          "nombre": "Support Gamming Gear",
+          "lindura": 6,
+          "grosor": 4,
+          "absorbencia": 2,
+          "calidad": 1.2,
+          "encantamientos": [],
+          "maldiciones": []
+        }
+      ]
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": [
+        {
+          "uid": "39c10cbe-932f-46b2-ae00-d4b8b161f0f2",
+          "nombre": "Baby Banana split",
+          "lindura": 7,
+          "grosor": 1,
+          "absorbencia": 8,
+          "calidad": 1.6,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "f05c4973-057c-4832-a2f4-3a6e0e4a54ed",
+          "nombre": "Baby Banana split",
+          "lindura": 7,
+          "grosor": 2,
+          "absorbencia": 7,
+          "calidad": 1.6,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "fa05c6d0-1717-4102-9b82-44dc90c8f216",
+          "nombre": "Little Magic Fairy",
+          "lindura": 5,
+          "grosor": 3,
+          "absorbencia": 3,
+          "calidad": 1.1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "702a76e7-3ed0-49c0-a1f9-22528dff9a74",
+          "nombre": "Baby Banana split",
+          "lindura": 9,
+          "grosor": 3,
+          "absorbencia": 8,
+          "calidad": 2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "b82278f7-b928-4583-bdf7-5fb6cb4c2519",
+          "nombre": "Messy Painter",
+          "lindura": 7,
+          "grosor": 9,
+          "absorbencia": 7,
+          "calidad": 2.3,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "5c963997-e695-42c8-b281-0034db7d8f84",
+          "nombre": "Messy Painter",
+          "lindura": 5,
+          "grosor": 6,
+          "absorbencia": 4,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "1bf76d88-c0e4-4d44-b02c-15423282b3f0",
+          "nombre": "Trainning Princess",
+          "lindura": 5,
+          "grosor": 6,
+          "absorbencia": 9,
+          "calidad": 2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "26702ffd-c77f-4989-9f90-088281af7028",
+          "nombre": "Trainning Princess",
+          "lindura": 6,
+          "grosor": 1,
+          "absorbencia": 8,
+          "calidad": 4.5,
+          "encantamientos": [
+            {
+              "id": 2,
+              "name": "Sleeping Recovery",
+              "description": "El Sueño reparador en su maxima expresion, te recoperas por completo al dormir."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "9da18cc3-1ca1-45a2-bdda-c4d2cf0ae723",
+          "nombre": "Little Magic Fairy",
+          "lindura": 6,
+          "grosor": 1,
+          "absorbencia": 3,
+          "calidad": 1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "3efa0940-5889-42c8-9cf5-db6bd0407157",
+          "nombre": "Trainning Princess",
+          "lindura": 4,
+          "grosor": 9,
+          "absorbencia": 5,
+          "calidad": 1.8,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "ba229cf3-caa9-4848-ad7d-e2244ba0eaab",
+          "nombre": "Little Magic Fairy",
+          "lindura": 7,
+          "grosor": 4,
+          "absorbencia": 6,
+          "calidad": 1.7,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "a3f8924d-d426-47ab-9ad4-23086567f750",
+          "nombre": "Little Cars Pilot",
+          "lindura": 5,
+          "grosor": 7,
+          "absorbencia": 4,
+          "calidad": 1.6,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "e4ff7540-6455-46f4-91ae-c1e44901e89f",
+          "nombre": "Messy Painter",
+          "lindura": 8,
+          "grosor": 2,
+          "absorbencia": 5,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "2ee0a1d9-af02-466b-bf0a-7004a73f5379",
+          "nombre": "Little Cars Pilot",
+          "lindura": 9,
+          "grosor": 1,
+          "absorbencia": 2,
+          "calidad": 1.2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "100b7833-e217-49ba-9b2c-521334d65f5e",
+          "nombre": "Baby Banana split",
+          "lindura": 7,
+          "grosor": 2,
+          "absorbencia": 3,
+          "calidad": 1.2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "8a3d94cf-5b63-460c-9c13-b75c22f12c60",
+          "nombre": "Baby Banana split",
+          "lindura": 4,
+          "grosor": 9,
+          "absorbencia": 3,
+          "calidad": 1.6,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "b21afe05-fa83-4d27-9e75-e4718f34a6fe",
+          "nombre": "Trainning Princess",
+          "lindura": 1,
+          "grosor": 6,
+          "absorbencia": 9,
+          "calidad": 4.6,
+          "encantamientos": [
+            {
+              "id": 0,
+              "name": "Auto Clean",
+              "description": "Se limpia automaticamente despues de cierto tiempo!"
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "90c84103-62b2-4d82-b3a1-80c7ed5951e1",
+          "nombre": "Little Cars Pilot",
+          "lindura": 8,
+          "grosor": 2,
+          "absorbencia": 4,
+          "calidad": 1.4,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "dc2d2f65-ccaa-4e94-bd67-f3fff513e03e",
+          "nombre": "Support Gamming Gear",
+          "lindura": 7,
+          "grosor": 1,
+          "absorbencia": 7,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "4f684e5f-b55b-4c4f-a06a-a045bcea86c5",
+          "nombre": "Little Cars Pilot",
+          "lindura": 8,
+          "grosor": 4,
+          "absorbencia": 3,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "a8660acb-ce12-4251-a166-911d9a07c26a",
+          "nombre": "Little Cars Pilot",
+          "lindura": 5,
+          "grosor": 8,
+          "absorbencia": 6,
+          "calidad": 4.9,
+          "encantamientos": [
+            {
+              "id": 1,
+              "name": "Super Protection",
+              "description": "Te protege tanto como una armadura, incluso tiene un campo de fuerza!"
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "61742859-8c64-4d5d-9afa-6437db13dc97",
+          "nombre": "Trainning Princess",
+          "lindura": 8,
+          "grosor": 5,
+          "absorbencia": 4,
+          "calidad": 1.7,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "e6c7647e-e90e-4e8b-99e8-1a1f0aedfde5",
+          "nombre": "Little Cars Pilot",
+          "lindura": 1,
+          "grosor": 5,
+          "absorbencia": 8,
+          "calidad": 1.4,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "ea505a5a-7bba-45fd-8bb5-ec4547b8fdec",
+          "nombre": "Little Cars Pilot",
+          "lindura": 8,
+          "grosor": 8,
+          "absorbencia": 2,
+          "calidad": 1.8,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "6065750f-dded-4fcf-8daa-f9d2f01dffbf",
+          "nombre": "Support Gamming Gear",
+          "lindura": 7,
+          "grosor": 2,
+          "absorbencia": 8,
+          "calidad": 1.7,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "35894c92-1131-407c-a49e-934fdae7d485",
+          "nombre": "Baby Banana split",
+          "lindura": 7,
+          "grosor": 5,
+          "absorbencia": 8,
+          "calidad": 8,
+          "encantamientos": [
+            {
+              "id": 0,
+              "name": "Auto Clean",
+              "description": "Se limpia automaticamente despues de cierto tiempo!"
+            },
+            {
+              "id": 2,
+              "name": "Sleeping Recovery",
+              "description": "El Sueño reparador en su maxima expresion, te recoperas por completo al dormir."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "69fc16a7-3baa-4702-8481-b93cf04cb498",
+          "nombre": "Baby Banana split",
+          "lindura": 2,
+          "grosor": 1,
+          "absorbencia": 1,
+          "calidad": 0.4,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "c645e67d-76de-4769-b399-264c7a9df9a2",
+          "nombre": "Messy Painter",
+          "lindura": 1,
+          "grosor": 3,
+          "absorbencia": 8,
+          "calidad": 1.2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "3f06a9f0-33b9-4f2c-888a-000f319df105",
+          "nombre": "Little Magic Fairy",
+          "lindura": 4,
+          "grosor": 8,
+          "absorbencia": 2,
+          "calidad": 4.4,
+          "encantamientos": [
+            {
+              "id": 2,
+              "name": "Sleeping Recovery",
+              "description": "El Sueño reparador en su maxima expresion, te recoperas por completo al dormir."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "a559fcdb-014c-449a-894a-389e6c4b9486",
+          "nombre": "Messy Painter",
+          "lindura": 6,
+          "grosor": 5,
+          "absorbencia": 4,
+          "calidad": 4.5,
+          "encantamientos": [
+            {
+              "id": 1,
+              "name": "Super Protection",
+              "description": "Te protege tanto como una armadura, incluso tiene un campo de fuerza!"
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "45a121b7-8053-49eb-ad0f-79b788cb2047",
+          "nombre": "Little Cars Pilot",
+          "lindura": 9,
+          "grosor": 7,
+          "absorbencia": 9,
+          "calidad": 2.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "04c2b5f2-adfd-4f66-938f-e57ccb1ad656",
+          "nombre": "Support Gamming Gear",
+          "lindura": 7,
+          "grosor": 8,
+          "absorbencia": 6,
+          "calidad": 5.1,
+          "encantamientos": [
+            {
+              "id": 2,
+              "name": "Sleeping Recovery",
+              "description": "El Sueño reparador en su maxima expresion, te recoperas por completo al dormir."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "d0ee3841-6d68-4efc-ad7e-1856429d6d77",
+          "nombre": "Little Magic Fairy",
+          "lindura": 9,
+          "grosor": 3,
+          "absorbencia": 5,
+          "calidad": 1.7,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "982600c0-c9ef-41f2-9012-76f1677ce932",
+          "nombre": "Messy Painter",
+          "lindura": 6,
+          "grosor": 2,
+          "absorbencia": 9,
+          "calidad": 1.7,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "f751f01a-7d7f-410e-b51e-5b9f7673517a",
+          "nombre": "Support Gamming Gear",
+          "lindura": 6,
+          "grosor": 6,
+          "absorbencia": 3,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "c5d28b2b-12fe-462d-896d-7020d06c7791",
+          "nombre": "Little Cars Pilot",
+          "lindura": 4,
+          "grosor": 5,
+          "absorbencia": 8,
+          "calidad": 1.7,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "a142249a-120c-451b-8cef-54dab1ab0501",
+          "nombre": "Little Cars Pilot",
+          "lindura": 6,
+          "grosor": 3,
+          "absorbencia": 2,
+          "calidad": 1.1,
+          "encantamientos": [
+            {
+              "id": 1,
+              "name": "Super Protection",
+              "description": "Te protege tanto como una armadura, incluso tiene un campo de fuerza!"
+            },
+            {
+              "id": 3,
+              "name": "Hero Strength",
+              "description": "Al usarlo te hace 3 veces mas fuerte"
+            }
+          ],
+          "maldiciones": [
+            {
+              "id": 2,
+              "name": "Spagetti Legs",
+              "description": "Tus piernas no responden, solo puedes gatear"
+            },
+            {
+              "id": 4,
+              "name": "Duck Waggle",
+              "description": "Cada que te mueves tus pompis se moveran de lado a lado, como un patito!"
+            },
+            {
+              "id": 5,
+              "name": "Nappy Time",
+              "description": "Cada turno lanza un D6, si es superior 4, te dormiras"
+            },
+            {
+              "id": 3,
+              "name": "Drain Bladder",
+              "description": "tu vejiga te traicina, Cada turno lanza un D6, si es mayor a 2, te haras pipi"
+            },
+            {
+              "id": 0,
+              "name": "Hypno Regression",
+              "description": "Cada turno lanza un D6 si es mayor a 3, volveras a ser un bebe de 3 años"
+            },
+            {
+              "id": 1,
+              "name": "Infinite Lock",
+              "description": "Este objeto no se puede quitar"
+            }
+          ]
+        },
+        {
+          "uid": "3d569a7a-d622-433c-8ac0-f044102efcd2",
+          "nombre": "Baby Banana split",
+          "lindura": 5,
+          "grosor": 5,
+          "absorbencia": 5,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "4f737f5b-9189-48c1-8201-caad50a695c6",
+          "nombre": "Messy Painter",
+          "lindura": 3,
+          "grosor": 6,
+          "absorbencia": 6,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "0507be12-f294-4b90-b67f-6fcc592ed7a3",
+          "nombre": "Messy Painter",
+          "lindura": 3,
+          "grosor": 3,
+          "absorbencia": 7,
+          "calidad": 1.3,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "020d6e56-8a76-4a3c-81e0-d193fd9ab05c",
+          "nombre": "Trainning Princess",
+          "lindura": 3,
+          "grosor": 6,
+          "absorbencia": 9,
+          "calidad": 1.8,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "2db201bf-b247-46de-8e9e-0a6fd92d019b",
+          "nombre": "Trainning Princess",
+          "lindura": 8,
+          "grosor": 8,
+          "absorbencia": 8,
+          "calidad": 2.4,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "fe5ef87a-6d5f-4188-8f2b-c9765727d00c",
+          "nombre": "Little Magic Fairy",
+          "lindura": 9,
+          "grosor": 6,
+          "absorbencia": 3,
+          "calidad": 1.8,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "401a54a4-27f9-4881-a02a-a5e91020038f",
+          "nombre": "Little Magic Fairy",
+          "lindura": 1,
+          "grosor": 2,
+          "absorbencia": 8,
+          "calidad": 1.1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "064049ba-cf58-4e91-aeea-8e5267deb421",
+          "nombre": "Baby Banana split",
+          "lindura": 1,
+          "grosor": 7,
+          "absorbencia": 1,
+          "calidad": 0.9,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "41bbc86c-df60-4c4c-a521-7336662c14ae",
+          "nombre": "Little Magic Fairy",
+          "lindura": 9,
+          "grosor": 5,
+          "absorbencia": 6,
+          "calidad": 2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "7538f9b4-ec37-4b9d-a6d0-37a8d073c42a",
+          "nombre": "Support Gamming Gear",
+          "lindura": 2,
+          "grosor": 7,
+          "absorbencia": 2,
+          "calidad": 1.1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "7cfdfc40-7b93-4809-8e86-62e68048b90b",
+          "nombre": "Baby Banana split",
+          "lindura": 4,
+          "grosor": 5,
+          "absorbencia": 1,
+          "calidad": 1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "4f92833f-d475-43ab-89d7-770e00902ea7",
+          "nombre": "Messy Painter",
+          "lindura": 1,
+          "grosor": 7,
+          "absorbencia": 6,
+          "calidad": 1.4,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "2cb7300b-e0f7-4e63-8073-1232278beca7",
+          "nombre": "Messy Painter",
+          "lindura": 1,
+          "grosor": 9,
+          "absorbencia": 9,
+          "calidad": 1.9,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "86659c25-495e-40f5-bf7b-263aa0bb2a8d",
+          "nombre": "Trainning Princess",
+          "lindura": 6,
+          "grosor": 6,
+          "absorbencia": 1,
+          "calidad": 1.3,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "6d54da56-4608-4785-9c3b-23a62273c85b",
+          "nombre": "Messy Painter",
+          "lindura": 7,
+          "grosor": 3,
+          "absorbencia": 4,
+          "calidad": 6.4,
+          "encantamientos": [
+            {
+              "id": 3,
+              "name": "Hero Strength",
+              "description": "Al usarlo te hace 3 veces mas fuerte"
+            },
+            {
+              "id": 0,
+              "name": "Auto Clean",
+              "description": "Se limpia automaticamente despues de cierto tiempo!"
+            }
+          ],
+          "maldiciones": [
+            {
+              "id": 1,
+              "name": "Infinite Lock",
+              "description": "Este objeto no se puede quitar"
+            }
+          ]
+        },
+        {
+          "uid": "11cc161c-5e80-4c27-a759-fa92b2e16cee",
+          "nombre": "Little Magic Fairy",
+          "lindura": 2,
+          "grosor": 5,
+          "absorbencia": 2,
+          "calidad": 3.9,
+          "encantamientos": [
+            {
+              "id": 0,
+              "name": "Auto Clean",
+              "description": "Se limpia automaticamente despues de cierto tiempo!"
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "2b3773c1-9a2a-46ea-ac13-9e70df3fbbd8",
+          "nombre": "Trainning Princess",
+          "lindura": 5,
+          "grosor": 3,
+          "absorbencia": 7,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "42ae1d66-f0e9-4176-be20-392fc439bd81",
+          "nombre": "Support Gamming Gear",
+          "lindura": 3,
+          "grosor": 1,
+          "absorbencia": 6,
+          "calidad": 1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "59ae756e-8049-409a-9143-ae1c8cb01d6f",
+          "nombre": "Baby Banana split",
+          "lindura": 5,
+          "grosor": 5,
+          "absorbencia": 2,
+          "calidad": 3.2,
+          "encantamientos": [
+            {
+              "id": 0,
+              "name": "Auto Clean",
+              "description": "Se limpia automaticamente despues de cierto tiempo!"
+            },
+            {
+              "id": 4,
+              "name": "Feather Pawns",
+              "description": "Curiosamente te vueles mas sigiloso con tus movimientos."
+            }
+          ],
+          "maldiciones": [
+            {
+              "id": 5,
+              "name": "Nappy Time",
+              "description": "Cada turno lanza un D6, si es superior 4, te dormiras"
+            },
+            {
+              "id": 4,
+              "name": "Duck Waggle",
+              "description": "Cada que te mueves tus pompis se moveran de lado a lado, como un patito!"
+            },
+            {
+              "id": 3,
+              "name": "Drain Bladder",
+              "description": "tu vejiga te traicina, Cada turno lanza un D6, si es mayor a 2, te haras pipi"
+            },
+            {
+              "id": 1,
+              "name": "Infinite Lock",
+              "description": "Este objeto no se puede quitar"
+            }
+          ]
+        },
+        {
+          "uid": "0e8da2f9-7ef2-432d-a261-0857bd6a7455",
+          "nombre": "Support Gamming Gear",
+          "lindura": 8,
+          "grosor": 4,
+          "absorbencia": 6,
+          "calidad": 1.8,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "6aed0604-25a5-4859-a1f3-271086a30dd6",
+          "nombre": "Trainning Princess",
+          "lindura": 3,
+          "grosor": 5,
+          "absorbencia": 1,
+          "calidad": 3.9,
+          "encantamientos": [
+            {
+              "id": 0,
+              "name": "Auto Clean",
+              "description": "Se limpia automaticamente despues de cierto tiempo!"
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "c787b8bf-15b9-4e54-84cc-b7c2598e8938",
+          "nombre": "Baby Banana split",
+          "lindura": 4,
+          "grosor": 4,
+          "absorbencia": 2,
+          "calidad": 1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "8e340ed1-5f0a-490a-bcaa-887115edd39a",
+          "nombre": "Support Gamming Gear",
+          "lindura": 6,
+          "grosor": 3,
+          "absorbencia": 3,
+          "calidad": 1.2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "f2a67d7a-af50-45ab-aad9-4235e5329eb8",
+          "nombre": "Trainning Princess",
+          "lindura": 7,
+          "grosor": 2,
+          "absorbencia": 6,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "57bfdab6-c1b6-46df-af58-2d96fde184eb",
+          "nombre": "Trainning Princess",
+          "lindura": 4,
+          "grosor": 5,
+          "absorbencia": 7,
+          "calidad": 1.6,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "01b93642-840b-4047-bec7-7ca291da585b",
+          "nombre": "Trainning Princess",
+          "lindura": 2,
+          "grosor": 3,
+          "absorbencia": 1,
+          "calidad": 3.6,
+          "encantamientos": [
+            {
+              "id": 5,
+              "name": "Bebito Estrella",
+              "description": "Al usar este objeto, todas tus habilidades son potenciadas."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "7070aee6-2a5f-41fe-8083-27e84bb04d4e",
+          "nombre": "Little Magic Fairy",
+          "lindura": 5,
+          "grosor": 8,
+          "absorbencia": 2,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "0cd7b67b-1a62-470c-979e-c2837e3a2f27",
+          "nombre": "Messy Painter",
+          "lindura": 4,
+          "grosor": 5,
+          "absorbencia": 3,
+          "calidad": 1.2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "7d593c5d-04ab-42bf-928a-355bc3fabf9c",
+          "nombre": "Baby Banana split",
+          "lindura": 2,
+          "grosor": 7,
+          "absorbencia": 6,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "74e39d29-f718-422e-bcb7-78a8cf5e3f59",
+          "nombre": "Little Magic Fairy",
+          "lindura": 5,
+          "grosor": 7,
+          "absorbencia": 2,
+          "calidad": 1.4,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "9913cebe-4fed-42c3-b2fe-58ba70bd18f9",
+          "nombre": "Trainning Princess",
+          "lindura": 1,
+          "grosor": 3,
+          "absorbencia": 8,
+          "calidad": 4.2,
+          "encantamientos": [
+            {
+              "id": 4,
+              "name": "Feather Pawns",
+              "description": "Curiosamente te vueles mas sigiloso con tus movimientos."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "f5194e3a-48cb-45b5-916e-081b6b919e67",
+          "nombre": "Little Magic Fairy",
+          "lindura": 2,
+          "grosor": 5,
+          "absorbencia": 1,
+          "calidad": 0.8,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "e9b075af-9c0e-4506-8a31-4621a590c094",
+          "nombre": "Baby Banana split",
+          "lindura": 1,
+          "grosor": 7,
+          "absorbencia": 3,
+          "calidad": 1.1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "d059a4a4-3acb-4dfc-9b07-d8c0c020524d",
+          "nombre": "Messy Painter",
+          "lindura": 6,
+          "grosor": 8,
+          "absorbencia": 3,
+          "calidad": 1.7,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "3f80a0bb-c806-48d4-8a05-7a8ca6114824",
+          "nombre": "Messy Painter",
+          "lindura": 9,
+          "grosor": 2,
+          "absorbencia": 9,
+          "calidad": 2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "a1288c08-4665-4cf0-9f32-7abf632a8250",
+          "nombre": "Baby Banana split",
+          "lindura": 5,
+          "grosor": 8,
+          "absorbencia": 9,
+          "calidad": 2.2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "43405be2-3f48-42b3-9bcb-2c43cfe54715",
+          "nombre": "Little Cars Pilot",
+          "lindura": 7,
+          "grosor": 5,
+          "absorbencia": 6,
+          "calidad": 4.8,
+          "encantamientos": [
+            {
+              "id": 1,
+              "name": "Super Protection",
+              "description": "Te protege tanto como una armadura, incluso tiene un campo de fuerza!"
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "1a45fc0d-c6ab-452a-9225-99afcba8d9af",
+          "nombre": "Trainning Princess",
+          "lindura": 2,
+          "grosor": 2,
+          "absorbencia": 8,
+          "calidad": 4.2,
+          "encantamientos": [
+            {
+              "id": 3,
+              "name": "Hero Strength",
+              "description": "Al usarlo te hace 3 veces mas fuerte"
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "2e04e0f3-b008-4ab5-9b9f-81a468a95093",
+          "nombre": "Messy Painter",
+          "lindura": 2,
+          "grosor": 2,
+          "absorbencia": 6,
+          "calidad": 1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "ab3b1837-4ab6-4123-bba2-67ab3e672c34",
+          "nombre": "Baby Banana split",
+          "lindura": 6,
+          "grosor": 2,
+          "absorbencia": 4,
+          "calidad": 4.2,
+          "encantamientos": [
+            {
+              "id": 5,
+              "name": "Bebito Estrella",
+              "description": "Al usar este objeto, todas tus habilidades son potenciadas."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "da5f4717-e67b-4012-bee0-6c06bcee03d9",
+          "nombre": "Trainning Princess",
+          "lindura": 2,
+          "grosor": 1,
+          "absorbencia": 8,
+          "calidad": 1.1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "241055bf-fb4d-4f4f-a6f5-e3ee5b492c12",
+          "nombre": "Little Magic Fairy",
+          "lindura": 6,
+          "grosor": 2,
+          "absorbencia": 1,
+          "calidad": 0.9,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "9a7c6ce7-9b33-40bf-84a3-d1407b75adce",
+          "nombre": "Baby Banana split",
+          "lindura": 3,
+          "grosor": 1,
+          "absorbencia": 2,
+          "calidad": 0.6,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "6925d9d8-69b8-4d22-8a0f-9555466c38f4",
+          "nombre": "Little Cars Pilot",
+          "lindura": 3,
+          "grosor": 2,
+          "absorbencia": 6,
+          "calidad": 1.1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "00535bc1-f8e0-4a43-a08a-eb992b1b428a",
+          "nombre": "Little Cars Pilot",
+          "lindura": 8,
+          "grosor": 6,
+          "absorbencia": 3,
+          "calidad": 1.7,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "3ff5aab6-1b3f-4646-8d36-16570044e95d",
+          "nombre": "Messy Painter",
+          "lindura": 3,
+          "grosor": 2,
+          "absorbencia": 1,
+          "calidad": 0.6,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "3ef2ed21-b3d6-4678-8843-2976e33f2e09",
+          "nombre": "Little Cars Pilot",
+          "lindura": 8,
+          "grosor": 4,
+          "absorbencia": 4,
+          "calidad": 1.6,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "c0908ca4-70c2-46ef-bdb5-c5b96309685a",
+          "nombre": "Support Gamming Gear",
+          "lindura": 3,
+          "grosor": 8,
+          "absorbencia": 9,
+          "calidad": 2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "d73d9cc2-5af1-41a8-9aba-b0a7c47f5980",
+          "nombre": "Support Gamming Gear",
+          "lindura": 4,
+          "grosor": 6,
+          "absorbencia": 3,
+          "calidad": 1.3,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "91370a87-948d-48d8-bb5f-19a5edd4f7c1",
+          "nombre": "Messy Painter",
+          "lindura": 2,
+          "grosor": 8,
+          "absorbencia": 8,
+          "calidad": 4.8,
+          "encantamientos": [
+            {
+              "id": 5,
+              "name": "Bebito Estrella",
+              "description": "Al usar este objeto, todas tus habilidades son potenciadas."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "a67dd538-21fc-4f5e-a67a-3417299419c9",
+          "nombre": "Support Gamming Gear",
+          "lindura": 6,
+          "grosor": 9,
+          "absorbencia": 7,
+          "calidad": 2.2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "2378a9a6-8f66-4ee4-abf0-1ae382540065",
+          "nombre": "Little Cars Pilot",
+          "lindura": 9,
+          "grosor": 4,
+          "absorbencia": 2,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "53098504-9fd6-434b-b034-0a1793f30338",
+          "nombre": "Baby Banana split",
+          "lindura": 1,
+          "grosor": 3,
+          "absorbencia": 9,
+          "calidad": 1.3,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "351cd3bf-f15c-4885-ae90-8162abaedc8c",
+          "nombre": "Little Cars Pilot",
+          "lindura": 5,
+          "grosor": 9,
+          "absorbencia": 4,
+          "calidad": 1.8,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "6da3663c-faeb-43d6-94d2-b05438ba28fb",
+          "nombre": "Trainning Princess",
+          "lindura": 4,
+          "grosor": 2,
+          "absorbencia": 4,
+          "calidad": 6,
+          "encantamientos": [
+            {
+              "id": 3,
+              "name": "Hero Strength",
+              "description": "Al usarlo te hace 3 veces mas fuerte"
+            },
+            {
+              "id": 0,
+              "name": "Auto Clean",
+              "description": "Se limpia automaticamente despues de cierto tiempo!"
+            }
+          ],
+          "maldiciones": [
+            {
+              "id": 2,
+              "name": "Spagetti Legs",
+              "description": "Tus piernas no responden, solo puedes gatear"
+            }
+          ]
+        },
+        {
+          "uid": "665ac15e-0b69-4553-b06f-d51e9edeea68",
+          "nombre": "Little Cars Pilot",
+          "lindura": 5,
+          "grosor": 8,
+          "absorbencia": 7,
+          "calidad": 2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "5df3f2fc-1ef1-4888-b7c3-0fbe9db9be98",
+          "nombre": "Little Magic Fairy",
+          "lindura": 4,
+          "grosor": 8,
+          "absorbencia": 5,
+          "calidad": 7.7,
+          "encantamientos": [
+            {
+              "id": 5,
+              "name": "Bebito Estrella",
+              "description": "Al usar este objeto, todas tus habilidades son potenciadas."
+            },
+            {
+              "id": 2,
+              "name": "Sleeping Recovery",
+              "description": "El Sueño reparador en su maxima expresion, te recoperas por completo al dormir."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "8b8a9c8a-1672-496e-bc9e-25a07b76650f",
+          "nombre": "Little Magic Fairy",
+          "lindura": 4,
+          "grosor": 7,
+          "absorbencia": 7,
+          "calidad": 4.8,
+          "encantamientos": [
+            {
+              "id": 3,
+              "name": "Hero Strength",
+              "description": "Al usarlo te hace 3 veces mas fuerte"
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "b76124a4-a240-401b-936b-88d029fa7b5a",
+          "nombre": "Little Cars Pilot",
+          "lindura": 6,
+          "grosor": 5,
+          "absorbencia": 8,
+          "calidad": 1.9,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "da42fcff-5626-43b8-a29c-2dd245151304",
+          "nombre": "Little Cars Pilot",
+          "lindura": 8,
+          "grosor": 3,
+          "absorbencia": 6,
+          "calidad": 1.7,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "9c187ebb-e060-4775-80c6-e1b5621337fc",
+          "nombre": "Messy Painter",
+          "lindura": 7,
+          "grosor": 5,
+          "absorbencia": 2,
+          "calidad": 4.4,
+          "encantamientos": [
+            {
+              "id": 4,
+              "name": "Feather Pawns",
+              "description": "Curiosamente te vueles mas sigiloso con tus movimientos."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "cf115826-fae3-430c-8150-3341cf408c91",
+          "nombre": "Little Cars Pilot",
+          "lindura": 3,
+          "grosor": 4,
+          "absorbencia": 6,
+          "calidad": 1.3,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "8cf00f35-4df6-4bba-a8e8-1479fc20e865",
+          "nombre": "Little Cars Pilot",
+          "lindura": 2,
+          "grosor": 9,
+          "absorbencia": 9,
+          "calidad": 2,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "271013cb-b6ea-463a-b2af-ccb8c4c7a51f",
+          "nombre": "Baby Banana split",
+          "lindura": 5,
+          "grosor": 6,
+          "absorbencia": 6,
+          "calidad": 4.7,
+          "encantamientos": [
+            {
+              "id": 4,
+              "name": "Feather Pawns",
+              "description": "Curiosamente te vueles mas sigiloso con tus movimientos."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "eedea733-a23d-4557-b938-782e56d88317",
+          "nombre": "Support Gamming Gear",
+          "lindura": 9,
+          "grosor": 1,
+          "absorbencia": 6,
+          "calidad": 1.6,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "8a0b04f5-a760-406e-8d15-af3ed8e7217a",
+          "nombre": "Little Cars Pilot",
+          "lindura": 4,
+          "grosor": 8,
+          "absorbencia": 7,
+          "calidad": 1.9,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "814e68bc-ff48-4565-965e-11540653bc5a",
+          "nombre": "Little Cars Pilot",
+          "lindura": 5,
+          "grosor": 8,
+          "absorbencia": 6,
+          "calidad": 4.9,
+          "encantamientos": [
+            {
+              "id": 2,
+              "name": "Sleeping Recovery",
+              "description": "El Sueño reparador en su maxima expresion, te recoperas por completo al dormir."
+            }
+          ],
+          "maldiciones": []
+        },
+        {
+          "uid": "19204bfd-9058-4fa9-8499-ae89b3520b0e",
+          "nombre": "Little Cars Pilot",
+          "lindura": 6,
+          "grosor": 2,
+          "absorbencia": 7,
+          "calidad": 1.5,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "50a99090-a050-4f0d-847d-4ce5295042fe",
+          "nombre": "Little Magic Fairy",
+          "lindura": 3,
+          "grosor": 2,
+          "absorbencia": 5,
+          "calidad": 1,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "e419a15c-e38f-4fd9-9c40-b17ba39731bc",
+          "nombre": "Little Cars Pilot",
+          "lindura": 1,
+          "grosor": 4,
+          "absorbencia": 3,
+          "calidad": 0.8,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "da722953-b095-4aae-bea5-98e9a64a61a6",
+          "nombre": "Little Magic Fairy",
+          "lindura": 8,
+          "grosor": 6,
+          "absorbencia": 5,
+          "calidad": 1.9,
+          "encantamientos": [],
+          "maldiciones": []
+        },
+        {
+          "uid": "b9a399c0-df93-4e94-b41d-d2744fbd1000",
+          "nombre": "Trainning Princess",
+          "lindura": 8,
+          "grosor": 8,
+          "absorbencia": 8,
+          "calidad": 2.4,
+          "encantamientos": [],
+          "maldiciones": []
+        }
+      ]
+    },
+    {
+      "user_id": "331269583447130122",
+      "diapers": []
+    },
+    {
+      "user_id": "331269583447130122",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    },
+    {
+      "user_id": "774327162009681990",
+      "diapers": []
+    }
+  ]
+}

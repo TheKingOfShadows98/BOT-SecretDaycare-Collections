@@ -1,6 +1,7 @@
 import { Client, Collection, Events, IntentsBitField, GatewayIntentBits, MessageFlags } from 'discord.js';
 import dotenv from 'dotenv';
 import { GetAllCommands } from './Commands/CommandReaders.js';
+import { CollectionCommand } from './Commands/Collection/collection.js';
 
 dotenv.config()
  
@@ -16,6 +17,9 @@ const setupClient = () => {
     })
     // COMMAND SECTION
     client.commands = new Collection();
+    client.commands.set(CollectionCommand.commandBuilder.name, {data:CollectionCommand.commandBuilder, execute: CollectionCommand.execute});
+
+    /*
     // Command Callback
     function command_handler(data, execute){
         if (data && execute){
@@ -24,8 +28,9 @@ const setupClient = () => {
         console.log(`[WARNING] The command is missing a required "data" or "execute" property.`);
         }
     }
-
     GetAllCommands(command_handler);
+    */
+
     // SUBSCRIVE FUNCTION OF COMMANDS
     client.on(Events.InteractionCreate, async interaction => {
         if (!interaction.isChatInputCommand()) return;

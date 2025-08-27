@@ -1,6 +1,7 @@
 import { SlashCommandSubcommandBuilder } from "discord.js";
 import { GetItems } from "../../../data/users.js";
 import { blank_embed } from "../../../Utilities/embeds.js";
+import { Diaper } from "../../../data/diapers.js";
 const subCommand = new SlashCommandSubcommandBuilder()
 .setName('view')
 .setDescription('view all your collections')
@@ -8,35 +9,14 @@ const subCommand = new SlashCommandSubcommandBuilder()
 
 const execute = async (interaction) => {
     const collection = GetItems(interaction.user.id);
-    let message = '';
     const embeds = [];
+    console.log(collection);
     for (let index = 0; index < collection.length; index++) {
-        const item = collection[index];
-        message += `**atributos**\n
-        > lindura: ${item.cuteness}
-        > grosor: ${item.thickness}
-        > absorbencia: ${item.absorbency}\n`
-        if(item.enchants.length > 0){
-            message += `
-            **encantamientos:**\n
-            `
-        }
-
-        for(let i = 0; i < item.enchants; i ++){
-            const enchant = item.enchants[i];
-            message += `> ${enchant} \n`;
-        }
-        if(item.curses.length > 0){
-            message+= `**maldiciones:** \n`;
-        }
-
-        for(let i = 0; i < item.curses; i ++){
-            const curse = item.curses[i];
-            message += `> ${curse} \n`;
-        }
+        const diaper = Diaper.objectFrom(collection[index]);
+       
         const embed = blank_embed()
-        .setTitle(item.name)
-        .setDescription(message)
+        .setTitle(diaper.nombre)
+        .setDescription(diaper.show())
         embed.setColor(0xf7b9ff)
         embeds.push(embed);
     }

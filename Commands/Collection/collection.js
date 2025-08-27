@@ -1,28 +1,24 @@
 import { SlashCommandBuilder } from "discord.js";
 import { getAllSubcommands, getAllSubcommandsExecuters } from "../CommandReaders.js";
+import { curses } from "./Subcommands/curses.js";
 
-export const command = (await getCommand());
+const CollectionCommand = {}
+const subcommand = {}
+subcommand[curses.command.name] = curses;
 
-async function  getCommand(){
-    const subCommandsData = await getAllSubcommands('./Collection');
-    const command = new SlashCommandBuilder()
+CollectionCommand.commandBuilder = new SlashCommandBuilder()
     .setName('collection')
     .setNameLocalization('es-ES', 'coleccion')
     .setDescription('Gacha command')
-    .setDescriptionLocalization('es-ES', 'Comando para los vicios')
-    for ( let i = 0; i < subCommandsData.length; i ++) {
-        const subCommand = subCommandsData[i];
-        command.addSubcommand(subCommand);
-    }
-    return command;   
-}
+    .setDescriptionLocalization('es-ES', 'Comando para los vicios').addSubcommand(curses.command);
 
-export const execute = async (interaction) => {
+
+CollectionCommand.execute = async (interaction) => {
     const subcommand = interaction.options.getSubcommand();
         if(subcommand != null){
-            await subCommandsExecutes[subcommand](interaction);
+            await subcommand[subcommand].execute(interaction);
             return;
         }
         
 }
-const subCommandsExecutes = (await getAllSubcommandsExecuters('./Collection'));
+export{CollectionCommand};

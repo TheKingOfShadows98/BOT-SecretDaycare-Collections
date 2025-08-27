@@ -1,11 +1,13 @@
 import { REST, Routes } from "discord.js";
 import dotenv from 'dotenv';
 import { GetAllCommands } from "./Commands/CommandReaders.js"; 
+import { CollectionCommand } from "./Commands/Collection/collection.js";
 
 dotenv.config()
 const commands = [];
 
-
+/**
+commands.push(CollectionCommand.commandBuilder.toJSON());
 
 // Grab all the command folders from the commands directory you created earlier
 async function command_handler(data, execute){
@@ -26,6 +28,7 @@ async function command_handler(data, execute){
 }
 
 await GetAllCommands(command_handler);
+ */
 
 
 // Construct and prepare an instance of the REST module
