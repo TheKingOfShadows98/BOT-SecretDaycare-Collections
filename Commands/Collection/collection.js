@@ -18,7 +18,7 @@ CollectionCommand.execute = async (interaction) => {
     console.log(subcommands);
         if(subcommand != null){
             await subcommands[subcommand].execute(interaction);
-            console.log("MIRA SPIRIT ESTAS EN MI CONSOLA");
+            console.log("MIRA SPIRIT ESTAS");
             return;
         }
         
