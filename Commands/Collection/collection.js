@@ -3,8 +3,8 @@ import { getAllSubcommands, getAllSubcommandsExecuters } from "../CommandReaders
 import { curses } from "./Subcommands/curses.js";
 
 const CollectionCommand = {}
-const subcommand = {}
-subcommand[curses.command.name] = curses;
+const subcommands = {}
+subcommands[curses.command.name] = curses;
 
 CollectionCommand.commandBuilder = new SlashCommandBuilder()
     .setName('collection')
@@ -15,8 +15,9 @@ CollectionCommand.commandBuilder = new SlashCommandBuilder()
 
 CollectionCommand.execute = async (interaction) => {
     const subcommand = interaction.options.getSubcommand();
+    console.log(subcommands);
         if(subcommand != null){
-            await subcommand[subcommand].execute(interaction);
+            await subcommands[subcommand].execute(interaction);
             return;
         }
         

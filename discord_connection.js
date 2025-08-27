@@ -6,6 +6,7 @@ import { CollectionCommand } from './Commands/Collection/collection.js';
 dotenv.config()
  
 const setupClient = () => {
+    console.log('STARDING SERVER');
     // An instance of the Discord Client.
     const client = new Client ({
         intents: [
