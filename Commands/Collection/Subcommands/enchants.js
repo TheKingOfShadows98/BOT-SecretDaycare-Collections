@@ -1,12 +1,13 @@
 import { SlashCommandSubcommandBuilder, MessageFlags } from "discord.js";
 import { blank_embed } from "../../../Utilities/embeds.js";
 import { enchants } from "../../../data/enchants.js";
+const enchant = {};
 
-const subCommand = new SlashCommandSubcommandBuilder()
+enchant.command = new SlashCommandSubcommandBuilder()
 .setName('enchants')
 .setDescription('View all enchants in the pool')
 
-const execute = async (interaction) => {
+enchant.execute = async (interaction) => {
 
     let  embs = [];
     await interaction.deferReply({ flags: MessageFlags.Ephemeral });
@@ -20,4 +21,4 @@ const execute = async (interaction) => {
     await interaction.followUp({embeds:embs, flags: MessageFlags.Ephemeral});
 }
 
-export {subCommand, execute}
+export {enchant}

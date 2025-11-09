@@ -2,12 +2,13 @@ import { SlashCommandSubcommandBuilder } from "discord.js";
 import { GetItems } from "../../../data/users.js";
 import { blank_embed } from "../../../Utilities/embeds.js";
 import { Diaper } from "../../../data/diapers.js";
-const subCommand = new SlashCommandSubcommandBuilder()
+const view = {};
+view.command = new SlashCommandSubcommandBuilder()
 .setName('view')
 .setDescription('view all your collections')
 
 
-const execute = async (interaction) => {
+view.execute = async (interaction) => {
     const collection = GetItems(interaction.user.id);
     const embeds = [];
     console.log(collection);
@@ -23,4 +24,4 @@ const execute = async (interaction) => {
     await interaction.reply({embeds: embeds});
 }
 
-export {subCommand, execute}
+export {view}
