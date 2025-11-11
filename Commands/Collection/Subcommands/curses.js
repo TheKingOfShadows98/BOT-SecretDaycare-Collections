@@ -18,8 +18,10 @@ curses.execute = async (interaction) => {
         embed.setDescription(`> ${curse.description}`);
         embs.push(embed);
     }
-    console.log(Date.now());
+    const inicio = performance.now();
     await interaction.followUp({embeds:embs, flags: MessageFlags.Ephemeral});
-    console.log(Date.now());
+    const fin = performance.now();
+      const tiempo = fin - inicio;
+    console.log(`El promise se resolvió en ${tiempo.toFixed(2)} ms`);
 }
 export {curses};
