@@ -18,6 +18,8 @@ curses.execute = async (interaction) => {
         embed.setDescription(`> ${curse.description}`);
         embs.push(embed);
     }
+    console.log(Date.now());
     await interaction.followUp({embeds:embs, flags: MessageFlags.Ephemeral});
+    console.log(Date.now());
 }
 export {curses};
